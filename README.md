@@ -40,7 +40,7 @@ Soğuma Yasası'na göre ortam sıcaklığı farkına bağlıdır.
 
 - Simülasyon süresi: 60 saniye
 - Başlangıç: 47.7 °C, 3000 MHz
-- 50. saniyede sıcaklık kritik eşiğe (85.5 °C) ulaştı, algoritma frekansı 1500 MHz'e çekti
+- Ellinci saniyede sıcaklık kritik eşiğe (85.5 °C) ulaştı, algoritma frekansı 1500 MHz'e çekti
 - İşlemci tehlikeli sıcaklık bölgesine (90 °C) çıkmadı
 
 <img width="244" height="319" alt="Resim1 1" src="https://github.com/user-attachments/assets/e6ae3595-49d9-4c40-8e8d-0321dadc9dcd" />
