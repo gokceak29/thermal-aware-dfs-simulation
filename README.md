@@ -47,6 +47,7 @@ Soğuma Yasası'na göre ortam sıcaklığı farkına bağlıdır.
 <img width="389" height="729" alt="Resim2 2" src="https://github.com/user-attachments/assets/0e726206-afad-4e01-9808-789523151d5c" />
 
 ![Sıcaklık Değişimi]
+
 <img width="1656" height="899" alt="Resim3 3" src="https://github.com/user-attachments/assets/f8177cd0-67e5-4bcd-98f2-3d3b7b4ef695" />
 
 ## Kullanılan Teknolojiler
